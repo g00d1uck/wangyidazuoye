@@ -30,21 +30,21 @@ em,b,strong{ font-style:normal;}
 .bar .bar_title,.bar .bar_colse a{ font-size:12px; color:#404040; line-height:38px;}
 .bar_title{ width:474px;}
 .bar_title a{ color:#20a45b; padding-left:4px;}
-.bar_colse { width:62px; padding-left:18px; background:url(file:///D|/xampp/htdocs/163/images/tip_close.png) no-repeat -1px 13px;}
+.bar_colse { width:62px; padding-left:18px; background:url(images/tip_close.png) no-repeat -1px 13px;}
 
 .nav .nav_logo{ position:relative;}
-.nav_logo h1{ float:left; width:238px; height:22px; background:url(file:///D|/xampp/htdocs/163/img/top_logo.png) no-repeat left center; margin-top:26px; text-indent:-9999px;}
+.nav_logo h1{ float:left; width:238px; height:22px; background:url(images/top_logo.png) no-repeat left center; margin-top:26px; text-indent:-9999px;}
 .nav_logo .guanzhu{  float:left; margin-left:30px; position:relative; top:20px;}
 .nav_logo .guanzhu a{ float:left; font-size:14px; font-family:"宋体"; width:50px; text-align:center; height:20px; line-height:20px; border-radius:2px; color:#646464padding:2px; cursor:pointer; margin-top:10px;}
 .nav_logo a span{ font-size:10px; margin-left:8px;}
-.nav_logo .guanzhu .active { margin-top:5px; width:54px; height:21px; background:url(file:///D|/xampp/htdocs/163/img/top_little2.png) no-repeat center center; margin-right:5px; display: inline-block; margin-top: 10px; }
+.nav_logo .guanzhu .active { margin-top:5px; width:54px; height:21px; background:url(images/top_little1-2.png)no-repeat center center; margin-right:5px; display: inline-block; margin-top: 10px; }
 
 .nav_right{ position:relative; top:36px;}
 .nav_right ul li{ float:left; margin-left:56px;}
 .nav_right a{ color:#676767; font:16px "宋体";}
 .nav_right a:hover{ text-decoration:underline;}
 .nav_right .center{ margin:0 56px;}
-.nav_right .search{ display:inline-block; width: 19px; height: 21px; background:url(file:///D|/xampp/htdocs/163/img/top_little2.png) no-repeat -2px -3px; margin-left:-26px; }
+.nav_right .search{ display:inline-block; width: 19px; height: 21px; background:url(images/top_little2.png)no-repeat -2px -3px; margin-left:-26px; }
 .nav_right li:hover .search{ background-position: -24px -3px;}
 
 #fader{position:relative;overflow:hidden;height:460px;width:100%;} 
@@ -57,7 +57,7 @@ em,b,strong{ font-style:normal;}
 
 .protect_col{ width:342px; height:178px; margin:60px 0; float:left; position:relative;}
 .protect_col:nth-child(2){ margin:60px 80px;}
-.protect_col .bg{ background:url(file:///D|/xampp/htdocs/163/img/top_describe.png) no-repeat; width:80px; height:80px; margin-top:8px;}
+.protect_col .bg{ background:url(images/top_describe.png) no-repeat; width:80px; height:80px; margin-top:8px;}
 .protect_col .col1{ background-position:-11px -10px;}
 .protect_col .col2{ background-position:-110px  -10px;}
 .protect_col .col3{ background-position:-206px -10px;}
@@ -84,7 +84,7 @@ box-shadow: 0px 0px 5px 1px rgba(50, 50, 50, 0.1);}
 .de_left .tab_detail .li_say a{ display: block; width:100%; margin-bottom: 6px; text-decoration: none; font-size: 12px; color: #666; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
 .de_left .tab_detail .li_say a:hover{ color:#39a030;}
 .de_left .tab_detail .li_say p { font-size: 12px; font-family:"微软雅黑";  margin-bottom:6px;color:#d9d9d9;}
-.de_left .tab_detail .tab_pic{ background:url(file:///D|/xampp/htdocs/163/images/people.png) no-repeat 4px; display:inline-block;margin-bottom: 6px; padding: 1px 2px 1px 20px; color:#bbb;border:1px solid #ddd; border-radius: 2px; font-size:10px; }
+.de_left .tab_detail .tab_pic{ background:url(images/people.png)no-repeat 4px; display:inline-block;margin-bottom: 6px; padding: 1px 2px 1px 20px; color:#bbb;border:1px solid #ddd; border-radius: 2px; font-size:10px; }
 .tab_detail .li_say .de_price{ color:#fe3b01; font-size: 10px; font-family:"微软雅黑"; }
 .de_left .tab_detail .cover{ display: none; position: absolute; width: 468px;height: 227px; top: -10px; left: -11px;  background-color: #fff; z-index: 2; margin-left: 10px; padding: 10px 0 0 10px; box-shadow: 0px 0px 5px 2px rgba(50, 50, 50, 0.3);text-overflow: ellipsis;}
 .tab_detail .cover .course-img{float: left;margin-right: 20px;}
@@ -92,7 +92,7 @@ box-shadow: 0px 0px 5px 1px rgba(50, 50, 50, 0.1);}
 .tab_detail .cover .cover-student{ background:url(file:///D|/xampp/htdocs/163/images/people.png) no-repeat 243px 2px; padding-left: 258px; margin-top: 15px; }
 .tab_detail .cover .cover-student, .tab_detail .cover .cover-provide, .tab_detail .cover .cover-category{ color:#666; padding-bottom: 10px;}
 .tab_detail .cover-provide ,.tab_detail .cover-student ,.tab_detail .cover-category { font-size: 12px; font-family:"微软雅黑";}
-.tab_detail .cover-student{ padding-left:15px; background:url(file:///D|/xampp/htdocs/163/images/people.png) no-repeat 4px; }
+.tab_detail .cover-student{ padding-left:15px; background:url(images/people.png) no-repeat 4px; }
 .tab_detail .cover .cover-describe{ position: absolute; bottom: 0; overflow: auto; padding:20px 25px 25px 20px; height: 45px; margin-left: -10px; background: #f8f8f8;}
 .tab_detail .cover .cover-describe-content{height:45px; color:#666; font-size: 13px; line-height: 20px;}
 
@@ -137,7 +137,7 @@ box-shadow: 0px 0px 5px 1px rgba(50, 50, 50, 0.1);}
 .login_window .input{ font-size:16px; background: #fafafa; width: 295px; height: 45px; padding-left: 15px; box-shadow: inset 2px 1px 2px 0px #ccc;}
 .login_window .inputup, .login_window .inputdown{ margin-top: 15px;}
 .login_window span{ font-size: 12px; margin-left: 50px; margin-top: 10px; color:#F0112C; display: none;}
-.login_window .login_btn{ background:url(file:///D|/xampp/htdocs/163/images/login_button.png) no-repeat -26px -25px; width: 298px; height: 48px; color:#fff; line-height: 48px; cursor: pointer; letter-spacing:2em; font-size: 18px; padding-left: 40px; margin:30px auto 0;}/*登陆弹窗结束*/
+.login_window .login_btn{ background:url(images/login_button.png) no-repeat -26px -25px; width: 298px; height: 48px; color:#fff; line-height: 48px; cursor: pointer; letter-spacing:2em; font-size: 18px; padding-left: 40px; margin:30px auto 0;}/*登陆弹窗结束*/
 
 .footer .section ,.optipns , .op_sec{ height:105px;}
 .footer .section{ width:398px;}
